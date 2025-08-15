@@ -4,4 +4,4 @@ Repository for CSCI 214 code examples and exercises.
 
 ## Table of Contents
 
-- [Programming Assessment](./Assessment Exam.md)
+- [Programming Assessment](./Assessment_Exam.md)
